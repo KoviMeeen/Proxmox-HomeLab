@@ -31,6 +31,8 @@ A célom, hogy bemutassam a telepítési lépéseket, a konfigurációkat és a 
 
 ## 📂 Dokumentáció
 - [Proxmox setup](docs/proxmox-setup.md)
+- [Network Diagram](docs/network-diagram.png)
+- [Proxmox Screenshot](docs/proxmox-screenshot.png)
 
 
 ---
