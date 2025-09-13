@@ -31,9 +31,7 @@ A célom, hogy bemutassam a telepítési lépéseket, a konfigurációkat és a 
 
 ## 📂 Dokumentáció
 - [Proxmox setup](docs/proxmox-setup.md)
-- [VM template-ek](docs/vm-templates.md)
-- [Backup stratégia](docs/backups.md)
-- [Monitoring](docs/monitoring.md)
+
 
 ---
 
